@@ -1,8 +1,4 @@
-<span align='center'>
-
-# `PySilon-rs` 
-
-<span align='left'>
+# PySilon-rs
 
 It connects to Discord, making it easy to connect to the host computer.
 
